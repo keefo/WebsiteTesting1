@@ -12,6 +12,6 @@ function Redirect()
 {  
     window.location="./"; 
 } 
-document.write("You will be redirected bank in 5 seconds"); 
+document.write("You will be redirected back in 5 seconds"); 
 setTimeout('Redirect()', 5000);   
 </script>
